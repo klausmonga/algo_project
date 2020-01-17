@@ -1,0 +1,2 @@
+- Dans tous les cas, pour trier n éléments, la methode tris_selection(self,tab) effectue n(n-1)/2 comparaisons. Sa complexité est donc Θ(n^2).
+- la methode type_triangle(self) a une complexité constante  Θ(1).
